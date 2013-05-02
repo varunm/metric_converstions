@@ -23,6 +23,8 @@ module MetricConversions
 
   # Celsius to Kelvin
   def from_C_to_K
+  	num = self
+  	num + 273
   end
-  
+
 end
