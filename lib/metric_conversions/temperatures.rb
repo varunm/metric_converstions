@@ -15,6 +15,7 @@ module MetricConversions
 
   # Fahrenheit to Kelvin
   def from_F_to_K
+  	self.from_F_to_C.from_C_to_K
   end
 
   # Celsius to Fahrenheit
