@@ -3,6 +3,8 @@ module MetricConversions
 
   # Kelvin to Celsius
   def from_K_to_C
+  	num = self
+  	return num - 273.0
   end
 
   # Kelvin to Fahrenheit
