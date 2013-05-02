@@ -44,7 +44,7 @@ This module was built by <YOUR NAME HERE> and <YOUR NAME HERE>.
 ### Temperatures ###
 ... notes and explanation goes here ...
 
-This module was built by <YOUR NAME HERE> and <YOUR NAME HERE>.
+This module was built by Alex Egan and Varun Murali.
 
 
 ### Areas ###

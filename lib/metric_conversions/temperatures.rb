@@ -28,10 +28,14 @@ module MetricConversions
 
   # Celsius to Fahrenheit
   def from_C_to_F
+  	num = self
+  	(num * 9)/5 + 32
   end
 
   # Celsius to Kelvin
   def from_C_to_K
+  	num = self
+  	num + 273
   end
-  
+
 end
