@@ -1,4 +1,5 @@
 
+require "temperatures"
 # Kelvin to Celsius
 def test_from_K_to_C
   raise "Fail" unless 273.from_K_to_C == 0
