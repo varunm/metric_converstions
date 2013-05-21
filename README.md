@@ -42,9 +42,18 @@ This module was built by <YOUR NAME HERE> and <YOUR NAME HERE>.
 
 
 ### Temperatures ###
-... notes and explanation goes here ...
 
 This module was built by Alex Egan and Varun Murali.
+
+Using this gem, you can convert from one temperature to another out of Kelvin, Farenheit and Celsius. It is simple enough to use.
+K: Kelvin
+F: Farenheit
+C: Celsius
+
+The method to call is simply from_(input letter)_to_(output letter)
+
+Example: 273.from_K_to_C => 0
+
 
 
 ### Areas ###
